@@ -1,1 +1,4 @@
-
+/*OVERIDE a bootstrap rule*/
+.text-primary{
+    color:hotpink !important;
+}
