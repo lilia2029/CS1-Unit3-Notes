@@ -1,4 +1,5 @@
 /*OVERIDE a bootstrap rule*/
-.text-primary{
-    color:hotpink !important;
+:root {
+  --bs-primary:rgb(225, 0, 191) !important;
+  --bs-primary-rgb:225, 0, 191 !important;
 }
